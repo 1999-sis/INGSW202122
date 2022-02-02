@@ -1,0 +1,3 @@
+Icons repurposed for Axure use under the Apache License Version 2.0
+
+https://material.io/icons/

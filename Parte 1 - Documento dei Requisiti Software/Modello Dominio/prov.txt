@@ -1,1 +1,4 @@
-
+Nel modello di dominio metteremo:
+-class diagram
+-activity diagram
+-sequence diagram
